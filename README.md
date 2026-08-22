@@ -4,16 +4,7 @@
 Software Developer • Competitive Programmer • AI/ML Enthusiast
 </h3>
 
-<p align="center">
-  <a href="https://github.com/dhruv284">
-    <img src="https://img.shields.io/github/followers/dhruv284?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/dhruv284?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
----
 
 ## 🚀 About Me
 
@@ -98,14 +89,7 @@ Apache Spark • PySpark • Databricks • Spark SQL • ETL • Medallion Arch
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruv284&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv284&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
 
 ## 🔥 GitHub Contribution Streak
 
@@ -115,17 +99,7 @@ Apache Spark • PySpark • Databricks • Spark SQL • ETL • Medallion Arch
 
 ---
 
-## 🚀 Featured Projects
 
-### 🤖 Resume Match AI
-
-AI-powered platform for matching resumes with job opportunities and helping candidates understand their job fit.
-
-**Tech:** Next.js • FastAPI • PostgreSQL • AI/LLMs
-
-🔗 [View Repository](https://github.com/dhruv284/Resume-Match-AI)
-
----
 
 ### ✈️ AI Trip Planner
 
@@ -137,13 +111,6 @@ AI-powered itinerary generation platform that creates personalized travel plans 
 
 ---
 
-### 🚦 Traffic Signal Classification
-
-CNN-based computer vision model for multi-class traffic sign classification using the GTSRB dataset.
-
-**Tech:** Python • TensorFlow • CNN • Transfer Learning • Computer Vision
-
----
 
 ## 🏆 Achievements
 
@@ -156,39 +123,9 @@ CNN-based computer vision model for multi-class traffic sign classification usin
 
 ---
 
-## 💼 Experience
 
-### Accenture
-**Advance Application Engineer (AEH) Intern**
 
-Worked with:
 
-`Apache Spark` `PySpark` `Spark SQL` `Databricks` `ETL`
-
-Built scalable data pipelines processing **1M+ records** and worked with **Bronze, Silver and Gold** layers of the Medallion Architecture.
-
-### IIT (ISM) Dhanbad
-**Research Intern**
-
-Worked on:
-
-`Swin Transformer` `EfficientNet` `Attention Mechanisms` `Computer Vision`
-
-Achieved **83.81% Accuracy • 0.839 F1-Score • 0.94 AUC**
-
----
-
-## 👨‍🏫 Community & Leadership
-
-### Algorithmic and Programming Society — NIT Rourkela
-
-**Technical Team Member**
-
-- 🧠 Mentoring students in **Data Structures & Algorithms**
-- ⚔️ Helping students with **Competitive Programming**
-- 💡 Sharing problem-solving techniques and algorithmic approaches
-
----
 
 ## 📫 Let's Connect
 
