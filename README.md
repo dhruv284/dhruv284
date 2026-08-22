@@ -4,20 +4,13 @@
 Software Developer • Competitive Programmer • AI/ML Enthusiast
 </h3>
 
-<p align="center">
-  <a href="https://github.com/dhruv284">
-    <img src="https://komarev.com/ghpvc/?username=dhruv284&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/dhruv284?tab=followers">
-    <img src="https://img.shields.io/github/followers/dhruv284?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-</p>
+
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Civil Engineering student at **NIT Rourkela**
+* 🎓 Engineering student at **NIT Rourkela**
 * 💻 Passionate about **Software Development, DSA & Competitive Programming**
 * 🤖 Exploring **Generative AI, LLMs, RAG & Agentic AI**
 * 🧠 Solved **1000+ DSA problems** on LeetCode
@@ -119,15 +112,7 @@ Software Developer • Competitive Programmer • AI/ML Enthusiast
 
 ## 🚀 Featured Projects
 
-### 🤖 Resume Match AI
 
-AI-powered platform designed to help users analyze and match resumes against job opportunities.
-
-**Tech:** Next.js • FastAPI • PostgreSQL • AI/LLMs
-
-🔗 **[View Project](https://github.com/dhruv284/Resume-Match-AI)**
-
----
 
 ### ✈️ AI Trip Planner
 
@@ -139,13 +124,6 @@ AI-powered itinerary generation platform that creates personalized travel plans 
 
 ---
 
-### 🚦 Traffic Signal Classification
-
-CNN-based computer vision model for multi-class traffic sign classification using the GTSRB dataset.
-
-**Tech:** Python • TensorFlow • CNN • Transfer Learning • Computer Vision
-
----
 
 ## 🏆 Achievements
 
@@ -158,17 +136,7 @@ CNN-based computer vision model for multi-class traffic sign classification usin
 
 ---
 
-## 👨‍🏫 Community & Leadership
 
-### Algorithmic and Programming Society — NIT Rourkela
-
-💡 Technical Team Member
-
-* Mentoring students in **Data Structures & Algorithms**
-* Helping students with **Competitive Programming**
-* Sharing problem-solving techniques and algorithmic approaches
-
----
 
 ## 📫 Let's Connect
 
