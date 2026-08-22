@@ -1,19 +1,209 @@
-<h1 align="center">Hi 👋, I'm Dhruv Agarwal</h1>
-<h3 align="center">Software Developer | DSA & Competitive Programming | AI/ML</h3>
+# 👋 Hi, I'm Dhruv Agarwal
 
-- 🔭 I’m currently working on [Resume Match AI](https://github.com/dhruv284/Resume-Match-AI)
+<h3 align="center">
+Software Developer • Competitive Programmer • AI/ML Enthusiast
+</h3>
 
-- 👨‍💻My Portfolio [https://dhruv-portfolio-ccnt.vercel.app/](https://dhruv-portfolio-ccnt.vercel.app/)
-
-- 📫 How to reach me **agarwaldhruv284@gmail.com**
-
-- ⚡ Fun fact **I can spend hours solving a problem just to realize the solution was 5 lines long.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dhruv-agarwal-18b7821a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-agarwal-18b7821a8" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhruv_agarwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruv_agarwal_" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/dhruv284">
+    <img src="https://komarev.com/ghpvc/?username=dhruv284&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/dhruv284?tab=followers">
+    <img src="https://img.shields.io/github/followers/dhruv284?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+* 🎓 Civil Engineering student at **NIT Rourkela**
+* 💻 Passionate about **Software Development, DSA & Competitive Programming**
+* 🤖 Exploring **Generative AI, LLMs, RAG & Agentic AI**
+* 🧠 Solved **1000+ DSA problems** on LeetCode
+* 🏆 **LeetCode Max Rating: 1904**
+* 🏅 **Semi-Finalist – Flipkart GRiD 8.0**
+* 🔬 Former Research Intern at **IIT (ISM) Dhanbad**
+* 💼 Former **Advance Application Engineer (AEH) Intern at Accenture**
+* 🔭 Currently building **[Resume Match AI](https://github.com/dhruv284/Resume-Match-AI)**
+* 🌐 Check out my **[Portfolio](https://dhruv-portfolio-ccnt.vercel.app/)**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/>
+</p>
+
+### 🤖 AI / ML
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/>
+</p>
+
+**Generative AI • LLMs • RAG • Agentic AI • Deep Learning • Computer Vision • Prompt Engineering**
+
+### 🗄️ Databases & Data Engineering
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
+</p>
+
+**Apache Spark • PySpark • Databricks • Spark SQL • ETL • Medallion Architecture**
+
+---
+
+## 🧠 Competitive Programming
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/dhruv_agarwal_?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats"/>
+</p>
+
+<p align="center">
+
+🏆 **1904 Max Rating**   |  
+🧩 **1000+ Problems Solved**   |  
+⚔️ **70+ Contests**
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruv284&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv284&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dhruv284&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhruv284/dhruv284/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Resume Match AI
+
+AI-powered platform designed to help users analyze and match resumes against job opportunities.
+
+**Tech:** Next.js • FastAPI • PostgreSQL • AI/LLMs
+
+🔗 **[View Project](https://github.com/dhruv284/Resume-Match-AI)**
+
+---
+
+### ✈️ AI Trip Planner
+
+AI-powered itinerary generation platform that creates personalized travel plans based on destination, budget and user preferences.
+
+**Tech:** Next.js • Generative AI • LLMs • Prompt Engineering • Clerk
+
+🌐 **[Live Demo](https://ai-trip-planner-eta-nine.vercel.app/)**
+
+---
+
+### 🚦 Traffic Signal Classification
+
+CNN-based computer vision model for multi-class traffic sign classification using the GTSRB dataset.
+
+**Tech:** Python • TensorFlow • CNN • Transfer Learning • Computer Vision
+
+---
+
+## 🏆 Achievements
+
+* 🥇 **LeetCode Max Rating – 1904**
+* 🧩 **1000+ DSA Problems Solved**
+* ⚔️ **70+ Competitive Programming Contests**
+* 🏆 **Semi-Finalist – Flipkart GRiD 8.0**
+* 🚀 **Top 10 – June Cohort Innovation Challenge** among 100+ teams
+* 🎓 **IIT Madras BS – Diploma in Programming**
+
+---
+
+## 👨‍🏫 Community & Leadership
+
+### Algorithmic and Programming Society — NIT Rourkela
+
+💡 Technical Team Member
+
+* Mentoring students in **Data Structures & Algorithms**
+* Helping students with **Competitive Programming**
+* Sharing problem-solving techniques and algorithmic approaches
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+
+<a href="mailto:agarwaldhruv284@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/dhruv-agarwal-18b7821a8">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.leetcode.com/dhruv_agarwal_">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://dhruv-portfolio-ccnt.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dhruv284">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I can spend hours solving a problem just to realize the solution was 5 lines long. 😄
+
+---
+
+<p align="center">
+  <i>💻 Code • 🧠 Learn • 🚀 Build • 🔥 Repeat</i>
+</p>
